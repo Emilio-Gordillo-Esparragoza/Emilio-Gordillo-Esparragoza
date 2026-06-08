@@ -1,53 +1,21 @@
-# 👋 Hi, I’m Emilio
+# 💫 About Me:
+# 👋 Hi, I’m Emilio<br><br>**Future Software Engineer – Cloud, Data & DevOps**  <br>*Building things that scale, learning how things really work*<br><br>📍 Mexico | ✈️ Open to remote  <br>📫 [emilio.gordillo.dev@gmail.com](mailto:emilio.gordillo.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397)<br><br>---<br><br>## 🧠 Beyond the terminal<br><br>**"What I cannot create, I do not understand"**.  <br>That’s why you’ll find me studying:<br><br>- 📖 *The Feynman Lectures on Physics* – for curiosity and first‑principles thinking (currently stuck on the 3rd volume) <br>- 🧮 **MIT OCW – from foundational (math for CS and introduction to algorithms) to specific stuff like "what´s blockchain?" <br><br>Because I believe deep understanding of math, physics, and algorithms makes you a better engineer and problem solver.<br><br>---<br><br>## 🌱 Currently<br><br>- Studying **Software Engineering** (formal path)  <br>- Learning **German** (weil ich eines Tages in Berlin arbeiten möchte 🥨)  <br>- Reading: *Designing Data‑Intensive Applications* + hinking Low-Level, Writing High-Level + Feynman’s lectures (slowly)<br><br>---<br><br>## 📊 A quick snapshot<br><br>```text<br>English  ████████████████████  fluent (currently certified by TOEFL)<br>Spanish  ████████████████████  native<br>German   ██████░░░░░░░░░░░░░░  learning (A2→B1)<br>```<br><br>---<br><br>## 🔧 What I do (hands‑on)<br><br>| Area | Tools & Tech |<br>|------|---------------|<br>| **Cloud & IaC** | AWS, Terraform, Docker, Ansible |<br>| **Data & ETL** | Playwright, Pandas, Spark, PostgreSQL |<br>| **Backend & APIs** | FastAPI, Flask, Spring Boot, Nginx |<br>| **CI/CD & Automation** | GitHub Actions, Jenkins |<br>| **Languages** | Python, Java, Rust |<br><br>My preferred stack: CachyOS, Python (FastAPI/Streamlit), PostgreSQL and Terraform<br>
 
-**Future Software Engineer – Cloud, Data & DevOps**  
-*Building things that scale, learning how things really work*
 
-📍 Mexico | ✈️ Open to remote  
-📫 [emilio.gordillo.dev@gmail.com](mailto:emilio.gordillo.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Emilio Gordillo Esparragoza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilio.gordillo.dev@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Emilio-Gordillo-Esparragoza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Emilio-Gordillo-Esparragoza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Emilio-Gordillo-Esparragoza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧠 Beyond the terminal
-
-**"What I cannot create, I do not understand"**.  
-That’s why you’ll find me studying:
-
-- 📖 *The Feynman Lectures on Physics* – for curiosity and first‑principles thinking (currently stuck on the 3rd volume) 
-- 🧮 **MIT OCW – from foundational (math for CS and introduction to algorithms) to specific stuff like "what´s blockchain?" 
-
-Because I believe deep understanding of math, physics, and algorithms makes you a better engineer and problem solver.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Emilio-Gordillo-Esparragoza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Emilio-Gordillo-Esparragoza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently
-
-- Studying **Software Engineering** (formal path)  
-- Learning **German** (weil ich eines Tages in Berlin arbeiten möchte 🥨)  
-- Reading: *Designing Data‑Intensive Applications* + hinking Low-Level, Writing High-Level + Feynman’s lectures (slowly)
-
----
-
-## 📊 A quick snapshot
-
-```text
-English  ████████████████████  fluent (currently certified by TOEFL)
-Spanish  ████████████████████  native
-German   ██████░░░░░░░░░░░░░░  learning (A2→B1)
-```
-
----
-
-## 🔧 What I do (hands‑on)
-
-| Area | Tools & Tech |
-|------|---------------|
-| **Cloud & IaC** | AWS, Terraform, Docker, Ansible |
-| **Data & ETL** | Playwright, Pandas, Spark, PostgreSQL |
-| **Backend & APIs** | FastAPI, Flask, Spring Boot, Nginx |
-| **CI/CD & Automation** | GitHub Actions, Jenkins |
-| **Languages** | Python, Java, Rust |
-
-My preferred stack: CachyOS, Python (FastAPI/Streamlit), PostgreSQL and Terraform
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
