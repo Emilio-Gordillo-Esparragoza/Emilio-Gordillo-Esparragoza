@@ -4,7 +4,7 @@
 *Building things that scale, learning how things really work*
 
 📍 Mexico | ✈️ Open to remote  
-📫 [emilio.gordillo.dev@gmail.com](mailto:emilio.gordillo.dev@gmail.com) | [GitHub](https://github.com/Emilio-Gordillo-Esparragoza) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397)
+📫 [emilio.gordillo.dev@gmail.com](mailto:emilio.gordillo.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397)
 
 ---
 
