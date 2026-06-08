@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I’m Emilio
 
-<!--
-**Emilio-Gordillo-Esparragoza/Emilio-Gordillo-Esparragoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Future Software Engineer – Cloud, Data & DevOps**  
+*Building things that scale, learning how things really work*
 
-Here are some ideas to get you started:
+📍 Mexico | ✈️ Open to remote  
+📫 [emilio.gordillo.dev@gmail.com](mailto:emilio.gordillo.dev@gmail.com) | [GitHub](https://github.com/Emilio-Gordillo-Esparragoza) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Beyond the terminal
+
+**"What I cannot create, I do not understand"**.  
+That’s why you’ll find me studying:
+
+- 📖 *The Feynman Lectures on Physics* – for curiosity and first‑principles thinking (currently stuck on the 3rd volume) 
+- 🧮 **MIT OCW – from foundational (math for CS and introduction to algorithms) to specific stuff like "what´s blockchain?" 
+
+Because I believe deep understanding of math, physics, and algorithms makes you a better engineer and problem solver.
+
+---
+
+## 🔧 What I do (hands‑on)
+
+| Area | Tools & Tech |
+|------|---------------|
+| **Cloud & IaC** | AWS, Terraform, Docker, Ansible |
+| **Data & ETL** | Playwright, Pandas, Spark, PostgreSQL |
+| **Backend & APIs** | FastAPI, Flask, Spring Boot, Nginx |
+| **CI/CD & Automation** | GitHub Actions, Jenkins |
+| **Languages** | Python, Java, Rust |
+
+My preferred stack: CachyOS, Python (FastAPI/Streamlit), PostgreSQL and Terraform
+
+---
+
+## 🌱 Currently
+
+- Studying **Software Engineering** (formal path)  
+- Learning **German** (weil ich eines Tages in Berlin arbeiten möchte 🥨)  
+- Reading: *Designing Data‑Intensive Applications* + hinking Low-Level, Writing High-Level + Feynman’s lectures (slowly)
+
+---
+
+## 📊 A quick snapshot
+
+```text
+English  ████████████████████  fluent (currently certified by TOEFL)
+Spanish  ████████████████████  native
+German   ██████░░░░░░░░░░░░░░  learning (A2→B1)
