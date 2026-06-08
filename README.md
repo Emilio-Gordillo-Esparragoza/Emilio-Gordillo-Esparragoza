@@ -4,7 +4,7 @@
 *Building things that scale, learning how things really work*
 
 📍 Mexico | ✈️ Open to remote  
-📫 [emilio.gordillo.dev@gmail.com](mailto:emilio.gordillo.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397/)
+📫 [email](mailto:emilio.gordillo.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-gordillo-esparragoza-948267397/)
 
 ---
 
@@ -13,10 +13,17 @@
 **"What I cannot create, I do not understand"**.  
 That’s why you’ll find me studying:
 
+- 📖 *Designing Data Intensive Applications* and *Think low level, write high level* - To improve as a software engineer
 - 📖 *The Feynman Lectures on Physics* – Currently stuck on the 3rd volume  
 - 🧮 **MIT OCW – Mathematics for Computer Science** – from foundational (like math for CS or introduction to algorithms) to specific stuff like "what is Bitcoin?" 
 
 > Deep understanding of math, physics, and algorithms makes you a better engineer and problem solver.
+
+```text
+English  ████████████████████  fluent
+Spanish  ████████████████████  native
+German   ██████░░░░░░░░░░░░░░  learning (A2→B1) weil ich eines Tages in Berlin arbeiten möchte 🥨
+```
 
 ---
 
@@ -29,20 +36,3 @@ That’s why you’ll find me studying:
 ![](https://github-readme-stats.shion.dev/api?username=Emilio-Gordillo-Esparragoza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Emilio-Gordillo-Esparragoza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Emilio-Gordillo-Esparragoza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🌱 Currently
-
-- Studying **Software Engineering** (formal degree)  
-- Learning **German** (weil ich eines Tages in Berlin arbeiten möchte 🥨)  
-- Reading: *Designing Data‑Intensive Applications* + Feynman’s lectures (slowly)
-
----
-
-## 📊 Languages
-
-```text
-English  ████████████████████  fluent
-Spanish  ████████████████████  native
-German   ██████░░░░░░░░░░░░░░  learning (A2→B1)
