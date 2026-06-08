@@ -20,20 +20,6 @@ Because I believe deep understanding of math, physics, and algorithms makes you 
 
 ---
 
-## 🔧 What I do (hands‑on)
-
-| Area | Tools & Tech |
-|------|---------------|
-| **Cloud & IaC** | AWS, Terraform, Docker, Ansible |
-| **Data & ETL** | Playwright, Pandas, Spark, PostgreSQL |
-| **Backend & APIs** | FastAPI, Flask, Spring Boot, Nginx |
-| **CI/CD & Automation** | GitHub Actions, Jenkins |
-| **Languages** | Python, Java, Rust |
-
-My preferred stack: CachyOS, Python (FastAPI/Streamlit), PostgreSQL and Terraform
-
----
-
 ## 🌱 Currently
 
 - Studying **Software Engineering** (formal path)  
@@ -48,3 +34,20 @@ My preferred stack: CachyOS, Python (FastAPI/Streamlit), PostgreSQL and Terrafor
 English  ████████████████████  fluent (currently certified by TOEFL)
 Spanish  ████████████████████  native
 German   ██████░░░░░░░░░░░░░░  learning (A2→B1)
+```
+
+---
+
+## 🔧 What I do (hands‑on)
+
+| Area | Tools & Tech |
+|------|---------------|
+| **Cloud & IaC** | AWS, Terraform, Docker, Ansible |
+| **Data & ETL** | Playwright, Pandas, Spark, PostgreSQL |
+| **Backend & APIs** | FastAPI, Flask, Spring Boot, Nginx |
+| **CI/CD & Automation** | GitHub Actions, Jenkins |
+| **Languages** | Python, Java, Rust |
+
+My preferred stack: CachyOS, Python (FastAPI/Streamlit), PostgreSQL and Terraform
+
+---
