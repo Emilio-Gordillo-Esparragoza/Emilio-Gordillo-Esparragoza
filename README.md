@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emilio
 
-**Future Software Engineer – Cloud, Data & DevOps**  
+**Studying Software Engineering @Universidad Autónoma de Gudalajara – Focus on Cloud, Data & DevOps**  
 *Building things that scale, learning how things really work*
 
 📍 Mexico | ✈️ Open to remote  
