@@ -15,14 +15,14 @@ That’s why you’ll find me studying:
 
 - 📖 *Designing Data Intensive Applications* and *Think low level, write high level* - To improve as a software engineer
 - 📖 *The Feynman Lectures on Physics* – Currently stuck on the 3rd volume  
-- 🧮 **MIT OCW – Mathematics for Computer Science** – from foundational (like math for CS or introduction to algorithms) to specific stuff like "what is Bitcoin?" 
+- 🧮 **MIT OCW** – from foundational (like math for CS or introduction to algorithms) to specific stuff like "what is Bitcoin?" 
 
 > Deep understanding of math, physics, and algorithms makes you a better engineer and problem solver.
 
 ```text
 English  ████████████████████  fluent
 Spanish  ████████████████████  native
-German   ██████░░░░░░░░░░░░░░  learning (A2→B1) weil ich eines Tages in Berlin arbeiten möchte 🥨
+German   ██████░░░░░░░░░░░░  learning (A2→B1) weil ich eines Tages in Berlin arbeiten möchte 🥨
 ```
 
 ---
