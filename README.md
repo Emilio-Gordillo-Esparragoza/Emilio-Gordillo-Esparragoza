@@ -22,7 +22,7 @@ That’s why you’ll find me studying:
 ```text
 English  ████████████████████  fluent
 Spanish  ████████████████████  native
-German   ██████░░░░░░░░░░░░  learning (A2→B1) weil ich eines Tages in Berlin arbeiten möchte 🥨
+German   ██████░░░░░░░░░░░░░░  learning (A2→B1) weil ich eines Tages in Berlin arbeiten möchte 🥨
 ```
 
 ---
