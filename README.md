@@ -17,7 +17,7 @@ That’s why you’ll find me studying:
 - 📖 *The Feynman Lectures on Physics* – Currently stuck on the 3rd volume  
 - 🧮 **MIT OCW** – from foundational (like math for CS or introduction to algorithms) to specific stuff like "what is Bitcoin?" 
 
-> Deep understanding of math, physics, and algorithms makes you a better engineer and problem solver.
+> Literature recommendation: "Dune" and "Rayuela"
 
 ```text
 English  ████████████████████  fluent
