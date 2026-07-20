@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emilio
 
-**Studying Software Engineering @Universidad Autónoma de Gudalajara – Focus on Cloud, Data & DevOps**  
+**Studying Software Engineering @Universidad Autónoma de Gudalajara – Focus on Data and Backend**  
 *Building things that scale, learning how things really work*
 
 📍 Mexico | ✈️ Open to remote  
