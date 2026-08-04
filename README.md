@@ -44,4 +44,4 @@ German   ██████░░░░░░░░░░░░░░  learning 
 
 ## 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilio-Gordillo-Esparragoza)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emilio-Gordillo-Esparragoza)](https://git.io/streak-stats)
